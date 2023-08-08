@@ -1,0 +1,61 @@
+,Address,Weather,Number_of_Sightings,weather
+0,"Albuquerque, NM",WT02,58,Foggy
+1,"Chicago, IL",WT02,504,Foggy
+2,"Las Vegas, NV",WT02,35,Foggy
+3,"Los Angeles, CA",WT02,154,Foggy
+4,"Orlando, FL",WT02,94,Foggy
+5,"Phoenix, AZ",WT02,4,Foggy
+6,"Portland, OR",WT02,221,Foggy
+7,"San Diego, CA",WT02,110,Foggy
+8,"Seattle, WA",WT02,153,Foggy
+9,"Tucson, AZ",WT02,12,Foggy
+10,"Albuquerque, NM",WT07,58,Dusty
+11,"Chicago, IL",WT07,90,Dusty
+12,"Las Vegas, NV",WT07,144,Dusty
+13,"Los Angeles, CA",WT07,130,Dusty
+14,"Orlando, FL",WT07,0,Dusty
+15,"Phoenix, AZ",WT07,34,Dusty
+16,"Portland, OR",WT07,1,Dusty
+17,"San Diego, CA",WT07,119,Dusty
+18,"Seattle, WA",WT07,9,Dusty
+19,"Tucson, AZ",WT07,3,Dusty
+20,"Albuquerque, NM",WT08,187,Hazey
+21,"Chicago, IL",WT08,3761,Hazey
+22,"Las Vegas, NV",WT08,518,Hazey
+23,"Los Angeles, CA",WT08,1161,Hazey
+24,"Orlando, FL",WT08,241,Hazey
+25,"Phoenix, AZ",WT08,95,Hazey
+26,"Portland, OR",WT08,184,Hazey
+27,"San Diego, CA",WT08,900,Hazey
+28,"Seattle, WA",WT08,175,Hazey
+29,"Tucson, AZ",WT08,148,Hazey
+30,"Albuquerque, NM",WT11,17,Windy
+31,"Chicago, IL",WT11,287,Windy
+32,"Las Vegas, NV",WT11,115,Windy
+33,"Los Angeles, CA",WT11,0,Windy
+34,"Orlando, FL",WT11,10,Windy
+35,"Phoenix, AZ",WT11,4,Windy
+36,"Portland, OR",WT11,0,Windy
+37,"San Diego, CA",WT11,0,Windy
+38,"Seattle, WA",WT11,0,Windy
+39,"Tucson, AZ",WT11,7,Windy
+40,"Albuquerque, NM",WT16,627,Rainy
+41,"Chicago, IL",WT16,3118,Rainy
+42,"Las Vegas, NV",WT16,2014,Rainy
+43,"Los Angeles, CA",WT16,247,Rainy
+44,"Orlando, FL",WT16,602,Rainy
+45,"Phoenix, AZ",WT16,116,Rainy
+46,"Portland, OR",WT16,927,Rainy
+47,"San Diego, CA",WT16,366,Rainy
+48,"Seattle, WA",WT16,817,Rainy
+49,"Tucson, AZ",WT16,390,Rainy
+50,"Albuquerque, NM",Clear,3747,Clear
+51,"Chicago, IL",Clear,10184,Clear
+52,"Las Vegas, NV",Clear,17229,Clear
+53,"Los Angeles, CA",Clear,7430,Clear
+54,"Orlando, FL",Clear,6147,Clear
+55,"Phoenix, AZ",Clear,2835,Clear
+56,"Portland, OR",Clear,5679,Clear
+57,"San Diego, CA",Clear,5534,Clear
+58,"Seattle, WA",Clear,6814,Clear
+59,"Tucson, AZ",Clear,2306,Clear
